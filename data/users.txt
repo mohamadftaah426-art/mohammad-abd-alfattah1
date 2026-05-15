@@ -1,0 +1,7 @@
+id,name,role
+1,Ali,admin
+2,Sara,user
+3,Omar,admin
+4,Lina,user
+5,Khalid,admin
+6,Nour,user

@@ -1,0 +1,4 @@
+اسم المستخدم: Eng.mohammad
+المسار الحالي: /c/Users/Eng.mohammad/shell_lab
+عدد الملفات في data/: 2
+نهاية التنفيذ بنجاح
